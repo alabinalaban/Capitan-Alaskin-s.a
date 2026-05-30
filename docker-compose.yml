@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  gravity-bot:
+    build: .
+    env_file: .env
+    restart: unless-stopped
+    volumes:
+      - ./logs:/app/logs
+    ports:
+      - "8000:8000"

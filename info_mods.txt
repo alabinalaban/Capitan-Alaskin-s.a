@@ -1,0 +1,9 @@
+Lista de Mods Activos en el Servidor Gravity:
+1. DayZ Expansion (BaseBuilding, Vehículos, etc.)
+2. Tactical Flava (Armas y equipamiento táctico)
+3. RFFS Helis (Helicópteros moddeados)
+4. RagVehiculos (Coches y vehículos terrestres personalizados)
+5. Vyse Collectables (Objetos coleccionables)
+6. MMG Base Storage (Muebles y almacenamiento para bases)
+
+Nota: Estos mods definen el equipo, vehículos y mecánicas avanzadas disponibles en el servidor.

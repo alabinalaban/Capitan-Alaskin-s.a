@@ -1,0 +1,28 @@
+# End‑User License Agreement (EULA) – Capitán Alaskin Bot
+
+## 1. Licencia
+El autor concede al comprador una **licencia no exclusiva, no transferible y revocable** para usar, modificar y distribuir el bot **únicamente en servidores Discord** bajo su propia cuenta de desarrollador.
+
+## 2. Prohibición de reventa
+Queda estrictamente prohibida la **reventa, sublicencia o distribución** del código fuente o del paquete binario a terceros sin el permiso explícito y por escrito del autor.
+
+## 3. Cumplimiento de los Términos de Servicio de Discord
+El comprador se compromete a:
+- No utilizar el bot para actividades prohibidas por los **Discord Developer Terms of Service** y la **Discord API Policy** (spam, automatización abusiva, scraping masivo, etc.).
+- No compartir el **token** del bot con terceros ni ejecutar el bot en servidores no autorizados.
+
+## 4. Responsabilidad
+El autor no es responsable de:
+- Daños, pérdidas o sanciones impuestas por Discord derivadas del uso del bot.
+- Problemas de seguridad o privacidad originados por una configuración incorrecta del bot por parte del comprador.
+
+## 5. Soporte y actualizaciones
+- El autor ofrece **soporte limitado** (consultas técnicas) durante 30 días tras la compra.
+- Las actualizaciones posteriores del repositorio no están incluidas en la licencia; pueden adquirirse por separado.
+
+## 6. Terminación
+El autor se reserva el derecho de revocar la licencia y solicitar la eliminación del bot si se detecta incumplimiento de este EULA.
+
+---
+
+*Al instalar y ejecutar este bot, aceptas los términos aquí descritos.*

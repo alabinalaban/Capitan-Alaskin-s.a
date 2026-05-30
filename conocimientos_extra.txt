@@ -1,0 +1,1 @@
+Aquí se guardarán los conocimientos adicionales que los administradores enseñen al bot a través de Discord:

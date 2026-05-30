@@ -1,0 +1,39 @@
+🎒 **Guía Completa: Construcción y Base en DayZ Expansion** 🎒
+
+¡Bienvenido a la guía de construcción! Aquí tienes todo lo necesario para empezar tu base desde cero. Recuerda que en este servidor dispones de la **Mochila de Construcción**, que te permite transportar troncos en la espalda (aunque no podrás esprintar).
+
+---
+
+🛠️ **1. Herramientas Básicas Necesarias**
+Antes de empezar, reúne estos materiales:
+🔸 **Hacha o Hachuela**: Para talar árboles y sacar troncos (logs).
+🔸 **Sierra o Sierra de metal**: Para cortar los troncos y sacar madera (Lumber) y tablones (Planks).
+🔸 **Martillo o Hachuela**: Tu herramienta principal para construir y clavar.
+🔸 **Cuerda (Rope) y Palos cortos (Sticks)**: Necesarios para hacer los kits de planos.
+🔸 **Alicates**: Para alambres y construcciones avanzadas.
+
+---
+
+🚩 **2. Reclamar Territorio (Mástil / Flag Pole)**
+¡Si no reclamas tu zona, tu base desaparecerá!
+1. **Craftea el Kit**: Combina **1 Cuerda** + **3 Palos Cortos** para hacer el *Flagpole Kit*.
+2. **Colócalo**: Ponlo en el centro de donde quieres tu base.
+3. **Reclama**: Ensambla el mástil y usa la acción "Create Territory" poniéndole nombre.
+4. **Iza la Bandera**: Para que la zona quede protegida, pon la bandera y súbela al tope.
+
+---
+
+🏗️ **3. Construcción Modular (Suelos, Paredes, Techos)**
+1. **Fabricar Kits**: Combina **1 Cuerda** + **1 Palo Corto**. Te dará la opción de craftear kits de suelo, pared, rampa, etc.
+2. **Colocar y Alinear (Snapping)**: Pon el kit en el suelo. Para que encaje a la perfección con la pared o suelo de al lado sin dejar huecos, usa la tecla de **Snapping** (suele ser la `X` o flecha abajo).
+3. **Construir Cimientos**: Añade Troncos o Madera de 3m (Lumber) al inventario del kit y usa tu Martillo para construir la base.
+4. **Acabados**: Añade Tablones (Planks) y Clavos (Nails). Golpea de nuevo con el Martillo para terminar la estructura.
+
+---
+
+🔒 **4. Seguridad y Muebles (MMG Base Storage)**
+🔸 **Code Locks**: Pon cerraduras con código a tus portones. Se abren automáticamente para ti tras poner la clave por primera vez.
+🔸 **Almacenamiento**: No olvides craftear muebles de nuestro mod MMG para guardar tus cosas:
+- **Caja de Suministros**: 10 Tablones + 40 Clavos (da caja incompleta) -> añadir 50 Clavos más.
+- **Soporte de Equipamiento**: 10 Tablones + 50 Clavos.
+*(💡 Si colocas mal un mueble, usa un Destornillador para desmontarlo)*

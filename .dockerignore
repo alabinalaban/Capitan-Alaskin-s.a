@@ -1,0 +1,9 @@
+.git/
+bot_backup/
+.env
+*.pyc
+__pycache__/
+*.log
+*.sqlite3
+*.db
+.cache/

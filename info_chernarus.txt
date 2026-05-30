@@ -1,0 +1,26 @@
+🌲 **Guía de Supervivencia y Lore de Chernarus** 🌲
+
+**El Lore de Chernarus:**
+Chernarus es una república postsoviética ficticia situada en Europa del Este, devastada por una guerra civil. Más tarde, un misterioso prión cerebral asoló la región, convirtiendo a la mayoría de la población en infectados hiperagresivos (zombis). Los supervivientes, misteriosamente inmunes a este prión, despiertan en la costa sin recuerdos recientes, teniendo que sobrevivir en las ruinas del antiguo conflicto.
+
+🗺️ **Geografía y Zonas Clave:**
+Chernarus abarca unos 225 km². La regla principal es que **la calidad del botín (loot) aumenta cuanto más te alejes de la costa sureste hacia el interior noroeste**.
+
+- **Ciudades Costeras (Chernogorsk y Elektrozavodsk):** Zonas de inicio. Hay mucha actividad de jugadores (PvP). Aquí encontrarás comida, agua y equipo básico, pero es muy peligroso.
+- **Novodmitrovsk:** Una de las ciudades más grandes en el norte con muchos edificios.
+- **Northwest Airfield (NWAF):** El aeródromo militar del noroeste. Una zona legendaria de altísimo riesgo militar donde los jugadores van a buscar armamento de grado militar (Tier 3/4).
+- **Base Militar de Tisy:** Situada en el extremo noroeste, es el destino final (endgame) para conseguir el botín más raro y poderoso del juego, extremadamente letal por infectados, jugadores y animales salvajes.
+- **VMC (Vybor Military Base):** Un campamento militar clave situado en el centro del mapa, un punto de control y PvP intenso muy cerca del NWAF.
+
+💡 **Reglas Automáticas del Servidor (Limpieza):**
+- **Vehículos en el Trader:** Todo vehículo abandonado en las zonas seguras (traders) desaparecerá automáticamente a las 3 horas.
+- **Objetos en el suelo:** Cualquier objeto tirado en el suelo en cualquier parte del mapa desaparecerá a los 15 minutos.
+
+💡 **Consejos Prácticos para Supervivientes:**
+1. **Comida y Agua:** Bebe SIEMPRE de las fuentes de los pueblos. NUNCA bebas de ríos ni estanques sin hervir el agua o usar pastillas purificadoras, o enfermarás de cólera. Busca comida en árboles frutales, gallinas, o pesca usando huesos para hacer anzuelos.
+2. **Salud e Higiene:** 
+   - Si cortas carne o desollas animales sin guantes, ¡lávate las manos inmediatamente! Si comes con las manos ensangrentadas, cogerás salmonela.
+   - Desinfecta tus vendajes con alcohol o tintura de yodo antes de usarlos para evitar infecciones en las heridas.
+   - Si te rompes una pierna, necesitarás craftear una férula de madera o estarás inconsciente del dolor.
+3. **Navegación:** No vayas a ciegas, usa el sol, las estrellas o las señales a la entrada de los pueblos. Se recomienda usar herramientas externas como iZurvive.
+4. **Sigilo y Combate:** Es mejor usar armas cuerpo a cuerpo (cuchillos, bates, hachas) o armas silenciadas contra los infectados. Disparar sin silenciador atraerá a hordas de zombis y alertará a otros jugadores hostiles. Mantente alejado de las carreteras principales.
